@@ -11,7 +11,16 @@
   * C
   
 ## 실행화면
+
+ * 서버
+ 
 ![proj_serv](./image/proj_serv.PNG)
+
+ * 클라이언트 1
+ 
 ![proj_cli_user1](./image/proj_cli_user1.PNG)
+
+ * 클라이언트 2
+ 
 ![proj_cli_user2](./image/proj_cli_user2.PNG)
 
